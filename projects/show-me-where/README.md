@@ -53,3 +53,7 @@ defines destination city
 
 defines total number of refugees from country of origin who settled in specific city
 
+## Anticipated Data Wrangling
+
+I will need to geotag the countries of origin and the destination cities in terms of latitude and longitude, instead of their current names
+
