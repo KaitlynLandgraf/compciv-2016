@@ -46,10 +46,3 @@ print ('Names 11 to 100:', (round((group2/total_groups)*100,1)))
 print ('Names 101 to 1000:', (round((group3/total_groups)*100,1)))
 print ('Names 1001 to 10000:', (round((group4/total_groups)*100,1)))
 print ('Names 10001 to',len(ordered),':', (round((group5/total_groups)*100,1)))
-
-	
-# print('')
-# for thing in mlist[:5]:
-# 	ip = str(i) + '.'
-# 	print(i, thing[0], thing[1])
-# 	i += 1
