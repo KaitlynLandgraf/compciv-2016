@@ -1,0 +1,16 @@
+{"images":[
+	{"image":"c.jpg",
+	 "scores":[
+		 {"classifier_id":"Appliance","name":"Appliance","score":0.669904},
+		 {"classifier_id":"Mug","name":"Mug","score":0.647812},
+		 {"classifier_id":"Boxing","name":"Boxing","score":0.624951},
+		 {"classifier_id":"Pliers","name":"Pliers","score":0.623597},
+		 {"classifier_id":"Black","name":"Black","score":0.620003},
+		 {"classifier_id":"Gray","name":"Gray","score":0.618318},
+		 {"classifier_id":"Kickboxing","name":"Kickboxing","score":0.604497},
+		 {"classifier_id":"Coffee_Maker","name":"Coffee_Maker","score":0.580147},
+		 {"classifier_id":"Repairing","name":"Repairing","score":0.544135},
+		 {"classifier_id":"Birthday_Party","name":"Birthday_Party","score":0.544091},
+		 {"classifier_id":"Subway_Platform","name":"Subway_Platform","score":0.528198},
+		 {"classifier_id":"Computer_Room","name":"Computer_Room","score":0.51572}]}]
+}

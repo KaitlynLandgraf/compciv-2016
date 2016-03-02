@@ -1,0 +1,22 @@
+{"images":[
+	{"image":"b.jpg",
+	 "scores":[
+		 {"classifier_id":"Beverage","name":"Beverage","score":0.719228},
+		 {"classifier_id":"Appliance","name":"Appliance","score":0.659522},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.653202},
+		 {"classifier_id":"White","name":"White","score":0.648821},
+		 {"classifier_id":"Octopus","name":"Octopus","score":0.626079},
+		 {"classifier_id":"Black","name":"Black","score":0.619143},
+		 {"classifier_id":"Gray","name":"Gray","score":0.595993},
+		 {"classifier_id":"Synchronized_Swimming","name":"Synchronized_Swimming","score":0.582138},
+		 {"classifier_id":"Kindergarten_Classroom","name":"Kindergarten_Classroom","score":0.553086},
+		 {"classifier_id":"Art_Gallery","name":"Art_Gallery","score":0.549045},
+		 {"classifier_id":"Skiing","name":"Skiing","score":0.540285},
+		 {"classifier_id":"Birthday_Party","name":"Birthday_Party","score":0.525539},
+		 {"classifier_id":"Leisure_Activity","name":"Leisure_Activity","score":0.522054},
+		 {"classifier_id":"Vivarium","name":"Vivarium","score":0.521467},
+		 {"classifier_id":"Girl","name":"Girl","score":0.517167},
+		 {"classifier_id":"Catacomb","name":"Catacomb","score":0.508353},
+		 {"classifier_id":"Gray_Sky","name":"Gray_Sky","score":0.506826},
+		 {"classifier_id":"Male_Adult","name":"Male_Adult","score":0.500695}]}]
+}

@@ -1,0 +1,22 @@
+{"images":[
+	{"image":"a.jpg",
+	 "scores":[
+		 {"classifier_id":"Flag_Burning","name":"Flag_Burning","score":0.678808},
+		 {"classifier_id":"Orange","name":"Orange","score":0.634464},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.613395},
+		 {"classifier_id":"Dancing","name":"Dancing","score":0.604523},
+		 {"classifier_id":"Performing","name":"Performing","score":0.602513},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.59381},
+		 {"classifier_id":"Discotheque","name":"Discotheque","score":0.589213},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.54065},
+		 {"classifier_id":"Fireworks","name":"Fireworks","score":0.538393},
+		 {"classifier_id":"Food","name":"Food","score":0.532333},
+		 {"classifier_id":"Pasta","name":"Pasta","score":0.530534},
+		 {"classifier_id":"Catacomb","name":"Catacomb","score":0.528766},
+		 {"classifier_id":"Clothing_Store","name":"Clothing_Store","score":0.528321},
+		 {"classifier_id":"Sunglasses","name":"Sunglasses","score":0.518392},
+		 {"classifier_id":"Prime_Rib","name":"Prime_Rib","score":0.513696},
+		 {"classifier_id":"Mixed_Color","name":"Mixed_Color","score":0.502063},
+		 {"classifier_id":"Human","name":"Human","score":0.500888},
+		 {"classifier_id":"Child","name":"Child","score":0.500086}]}]
+}

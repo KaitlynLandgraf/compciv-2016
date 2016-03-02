@@ -1,0 +1,19 @@
+{"images":[
+	{"image":"d.jpg",
+	 "scores":[
+		 {"classifier_id":"White","name":"White","score":0.715394},
+		 {"classifier_id":"Gray","name":"Gray","score":0.678556},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.641228},
+		 {"classifier_id":"Earthquake","name":"Earthquake","score":0.640473},
+		 {"classifier_id":"Beverage","name":"Beverage","score":0.628868},
+		 {"classifier_id":"Appliance","name":"Appliance","score":0.59652},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.593901},
+		 {"classifier_id":"Dish_Washer","name":"Dish_Washer","score":0.591121},
+		 {"classifier_id":"Meeting","name":"Meeting","score":0.550737},
+		 {"classifier_id":"Scene","name":"Scene","score":0.550643},
+		 {"classifier_id":"Animal_Tending","name":"Animal_Tending","score":0.546346},
+		 {"classifier_id":"Gray_Sky","name":"Gray_Sky","score":0.529856},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.517848},
+		 {"classifier_id":"Engine_Room","name":"Engine_Room","score":0.50212},
+		 {"classifier_id":"Human","name":"Human","score":0.500604}]}]
+}

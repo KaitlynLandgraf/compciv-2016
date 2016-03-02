@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"e.jpg",
+	 "scores":[
+		 {"classifier_id":"Emu","name":"Emu","score":0.710842},
+		 {"classifier_id":"White","name":"White","score":0.709925},
+		 {"classifier_id":"Nature_Scene","name":"Nature_Scene","score":0.655037},
+		 {"classifier_id":"Gray","name":"Gray","score":0.645481},
+		 {"classifier_id":"Winter_Scene","name":"Winter_Scene","score":0.634813},
+		 {"classifier_id":"Vertebrate","name":"Vertebrate","score":0.62247},
+		 {"classifier_id":"Ice_Climbing","name":"Ice_Climbing","score":0.617524},
+		 {"classifier_id":"Ostrich","name":"Ostrich","score":0.615902},
+		 {"classifier_id":"Animal","name":"Animal","score":0.615468},
+		 {"classifier_id":"Adventure_Sport","name":"Adventure_Sport","score":0.562575},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.544603},
+		 {"classifier_id":"Rice_Paddy","name":"Rice_Paddy","score":0.535128},
+		 {"classifier_id":"Hunting","name":"Hunting","score":0.528558},
+		 {"classifier_id":"Forest_Path","name":"Forest_Path","score":0.510458}]}]
+}
