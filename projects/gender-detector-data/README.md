@@ -1,9 +1,9 @@
 # Gender analysis of New York City Payroll information for the office of the mayor
 ## Preliminary findings
 
-There are more women than men overall, and in every individual salary bracket
-Although women's lead on men shrinks in the top two salary brackets compared with the bottom two
-Nobody in the mayor's office make $250K or above.
+There are more women than men overall, and in every individual salary bracket,
+although women's lead on men shrinks in the top two salary brackets compared with the bottom two.
+Nobody in the mayor's office makes $250K or above.
 
 #fetch_gender_data.py
 
